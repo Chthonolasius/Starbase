@@ -6,7 +6,7 @@ So if you want to make donation to help.
 
 You can find all there ships on the appropriate file with technical description to understand how it work
 
-## fighter ship
+## Fighter ship
 - V-Wing (actually V7, V8 will arrived soon)
 - V-Wing + Warp Module (V3, V4 will arrived soon)
 - Naboo
