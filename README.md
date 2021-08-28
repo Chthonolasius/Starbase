@@ -1,8 +1,8 @@
 # Starbase
 
 I put at your disposal the blueprints free of charge, you can improve it, share it or make proposals for improvement.
-All ship are made by Kingkong.
-So if you want to do donation to help.
+All ships are made by Kingkong.
+So if you want to make donation to help.
 
 You can find all there ships on the appropriate file with technical description to understand how it work
 
@@ -13,7 +13,7 @@ You can find all there ships on the appropriate file with technical description 
 - Arachnida
 
 ## Moon Tank Ship
-- Tank (It will arrived soon)
+- Tank (It will arrive soon)
 
 ## Chill Ship
 - Woody (V1)
