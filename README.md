@@ -9,8 +9,8 @@ You can find all there ships on the appropriate file with technical description 
 ## Fighter ship
 - V-Wing (actually V7, V8 will arrived soon)
 - V-Wing + Warp Module (V3, V4 will arrived soon)
-- Naboo
-- Arachnida
+- Naboo (not yet)
+- Arachnida (not yet)
 
 ## Moon Tank Ship
 - Tank (It will arrive soon)
