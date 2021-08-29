@@ -15,7 +15,7 @@ Ship made by Kingkong
 - 1 fuel road rack (behind the chair)
 - 2 Small properllant tank
 - full charodium plates
-- full bastion beams
+- full bastium beams
 
 
 ## Ship control panel
