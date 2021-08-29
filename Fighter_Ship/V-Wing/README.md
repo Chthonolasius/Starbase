@@ -6,7 +6,7 @@ Ship made by Kingkong
 27.fde -> version 8 (Last)
 
 ![alt text](https://github.com/Chthonolasius/Starbase/blob/main/Fighter_Ship/V-Wing/V-Wing%20picture.png)
-
+V-Wing
 
 ## Ship description
 2 Laser cannon
@@ -21,8 +21,8 @@ full bastion beams
 
 ## Ship control panel
 
-In attanchment, there is a screenshoot of the control panel : "Control panel capture"
 ![alt text](https://github.com/Chthonolasius/Starbase/blob/main/Fighter_Ship/V-Wing/Control%20panel%20capture.PNG)
+In attanchment, there is a screenshoot of the control panel : "Control panel capture"
 
 1  : FuelChamberFuel, it lets you know when to change your fuel road chamber.
 2  : properllant information, it lets you know when to refuel the tank.
