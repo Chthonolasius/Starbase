@@ -3,7 +3,8 @@
 Ship made by Kingkong
 
 26.fbe -> version 7
-27.fde -> version 8 (Last)
+27.fde -> version 8
+28.fde -> version 9 (Last)
 
 ![alt text](https://github.com/Chthonolasius/Starbase/blob/main/Fighter_Ship/V-Wing/V-Wing%20picture.png)
 V-Wing
@@ -15,8 +16,9 @@ Isan module
 1 Generator fuel chamber & 3 Generator unit (full T2)
 1 fuel road rack (behind the chair)
 2 Small properllant tank
-full charodium plates
-full bastion beams
+Full charodium plates
+Full bastion beams
+Ship warp class : 1.82
 
 
 ## Ship control panel
