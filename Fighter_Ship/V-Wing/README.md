@@ -4,7 +4,7 @@ Ship made by Kingkong
 
 26.fbe -> version 7
 27.fde -> version 8
-28.fde -> version 9 (Last)
+29.fde -> version 9 (Last)
 
 ![V-Wing](https://github.com/Chthonolasius/Starbase/blob/main/Fighter_Ship/V-Wing/V-Wing%20picture.png)
 
